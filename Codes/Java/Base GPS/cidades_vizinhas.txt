@@ -1,0 +1,46 @@
+Arad;Sibiu
+Arad;Timisoara
+Arad;Zerind
+Bucharest;Fagaras
+Bucharest;Giurgiu
+Bucharest;Pitesti
+Bucharest;Urziceni
+Craiova;Drobeta
+Craiova;Pitesti
+Craiova;Rimnicu Vilcea
+Drobeta;Craiova
+Drobeta;Mehadia
+Eforie;Hirsova
+Fagaras;Bucharest
+Fagaras;Sibiu
+Giurgiu;Bucharest
+Hirsova;Eforie
+Hirsova;Urziceni
+Iasi;Neamt
+Iasi;Vaslui
+Lugoj;Mehadia
+Lugoj;Timisoara
+Mehadia;Drobeta
+Mehadia;Lugoj
+Neamt;Iasi
+Oradea;Sibiu
+Oradea;Zerind
+Pitesti;Bucharest
+Pitesti;Craiova
+Pitesti;Rimnicu Vilcea
+Rimnicu Vilcea;Craiova
+Rimnicu Vilcea;Pitesti
+Rimnicu Vilcea;Sibiu
+Sibiu;Arad
+Sibiu;Fagaras
+Sibiu;Oradea
+Sibiu;Rimnicu Vilcea
+Timisoara;Arad
+Timisoara;Lugoj
+Urziceni;Bucharest
+Urziceni;Hirsova
+Urziceni;Vaslui
+Vaslui;Iasi
+Vaslui;Urziceni
+Zerind;Arad
+Zerind;Oradea

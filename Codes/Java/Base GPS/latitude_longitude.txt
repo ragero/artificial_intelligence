@@ -1,0 +1,20 @@
+Arad;48;250
+Bucharest;380;65
+Craiova;220;60
+Drobeta;125;50
+Eforie;570;40
+Fagaras;280;210
+Giurgiu;360;20
+Hirsova;535;95
+Iasi;470;270
+Lugoj;125;125
+Mehadia;120;90
+Neamt;390;315
+Oradea;75;340
+Pitesti;290;120
+Rimnicu Vilcea;210;160
+Sibiu;135;240
+Timisoara;45;165
+Urziceni;440;95
+Vaslui;500;200
+Zerind;60;300
